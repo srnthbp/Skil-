@@ -420,6 +420,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 
 ### General Skills
 
+- **[isgudtek/mycrab-tunnel-skill](https://github.com/isgudtek/mycrab-tunnel-skill)** - Autonomous Cloudflare Tunnel setup via mycrab.space API. One-click tunnel install, tunnel management, custom domains, 12+ templates.
 - **[microsoft/azd-deployment](https://github.com/microsoft/skills/tree/main/.github/skills/azd-deployment)** - Azure Container Apps deployment with azd
 - **[microsoft/github-issue-creator](https://github.com/microsoft/skills/tree/main/.github/skills/github-issue-creator)** - Structured GitHub issue reports from notes
 - **[microsoft/mcp-builder](https://github.com/microsoft/skills/tree/main/.github/skills/mcp-builder)** - MCP server creation guide
