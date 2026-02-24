@@ -560,6 +560,7 @@ Official curated skills from OpenAI's skills repository.
 - **[ComposioHQ/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)** - Analyze competitor advertising
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
 - **[CosmoBlk/email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible)** - 55K-word email marketing guide as an AI skill
+- **[PHY041/claude-skill-twitter](https://github.com/PHY041/claude-skill-twitter)** - 3 Twitter/X skills for account growth, keyword search (200+ tweets), and content strategy. Powered by rnet (bypasses Cloudflare) — no API key needed, just browser cookies
 
 </details>
 
