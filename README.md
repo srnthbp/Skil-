@@ -564,6 +564,13 @@ Official curated skills from OpenAI's skills repository.
 </details>
 
 <details>
+<summary><h3 style="display:inline">Operations & Supply Chain</h3></summary>
+
+- **[ai-evos/agent-skills](https://github.com/ai-evos/agent-skills)** - 8 eval-verified operational domain skills codifying 15+ years of industry expertise: logistics exception management, carrier relationships, customs compliance, inventory planning, returns processing, production scheduling, quality non-conformance, and energy procurement
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Productivity and Collaboration</h3></summary>
 
 - **[PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill)** - Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.
