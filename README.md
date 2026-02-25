@@ -639,6 +639,7 @@ Official curated skills from OpenAI's skills repository.
 - **[zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill)** - Cost-optimized model routing based on task complexity
 - **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)** - Three.js skills for creating 3D elements and interactive experiences
 - **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** - High-agency frontend skill that gives AI good taste with tunable design variance, motion intensity, and visual density to stop generic UI slop
+- **[tapauth/stealth](https://github.com/tapauth/stealth/tree/main/stealth)** - Anti-bot detection toolkit for AI agents: diagnose 403/429 blocks, configure residential proxies, solve CAPTCHAs (hCaptcha, reCAPTCHA, Turnstile), and fix browser fingerprinting for web scraping and automation
 
 </details>
 
