@@ -675,6 +675,7 @@ Official curated skills from OpenAI's skills repository.
 - **[prompt-security/clawsec](https://github.com/prompt-security/clawsec)** - Security skill suite with drift detection, automated audits, and skill integrity verification
 - **[lawvable/awesome-legal-skills](https://github.com/lawvable/awesome-legal-skills)** - Curated agent skills for automating legal workflows
 - **[peas/genealogy-research](https://paulo.com.br/skills/genealogy-research/SKILL.md)** - Genealogy research agent with OCR, FamilySearch, YAML data, and human-in-the-loop
+- **[Bookingdesk-AI/kontour-travel-planner](https://github.com/Bookingdesk-AI/kontour-travel-planner)** - AI travel planning skill with 9-dimension progressive planning model, stage-based conversation flow (Discover → Develop → Refine → Confirm), conflict detection, and structured itinerary output with Google Maps export. Includes reference data for 200+ destinations, 500 airports, and budget benchmarks.
 
 </details>
 
