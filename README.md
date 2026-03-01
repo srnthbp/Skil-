@@ -721,6 +721,8 @@ Official curated skills from OpenAI's skills repository.
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** -Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting
 - **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** -Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes.
 - **[blader/humanizer](https://github.com/blader/humanizer)** - Remove signs of AI-generated writing from text, making it sound more natural and human
+- **[noizai/skills (tts)](https://github.com/noizai/skills/tree/main/skills/tts)** - SRT-aligned dubbing with Kokoro or Noiz TTS
+- **[noizai/skills (characteristic-voice)](https://github.com/noizai/skills/tree/main/skills/characteristic-voice)** - Companion voice presets with fillers and emotion tuning
 
 </details>
 
