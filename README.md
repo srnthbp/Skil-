@@ -616,6 +616,10 @@ Official curated skills from OpenAI's skills repository.
 
 </details>
 
+- **[daxaur/openpaw](https://github.com/daxaur/openpaw)** - Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills including Telegram, Discord, Obsidian, and daily briefings. No daemon, no cloud, MIT licensed.
+
+</details>
+
 <details>
 <summary><h3 style="display:inline">Development and Testing</h3></summary>
 
