@@ -703,6 +703,15 @@ Official curated skills from OpenAI's skills repository.
 </details>
 
 <details>
+<summary><h3 style="display:inline">Thinking & Decision-Making</h3></summary>
+
+- **[ashrafkahoush-ux/consciousness-council](https://github.com/ashrafkahoush-ux/Claude-consciousness-skills/tree/main/consciousness-council)** - Multi-perspective Mind Council deliberation with 12 thinking archetypes (Architect, Contrarian, Empiricist, Ethicist, Futurist, Pragmatist, Historian, Empath, Outsider, Strategist, Minimalist, Creator). Generates productive disagreement, then synthesizes convergence points, core tensions, and recommended path.
+- **[ashrafkahoush-ux/dhdna-profiler](https://github.com/ashrafkahoush-ux/Claude-consciousness-skills/tree/main/dhdna-profiler)** - Cognitive pattern extraction and thinking fingerprinting across 12 dimensions and 6 tension pairs. Based on published research: [DHDNA (DOI: 10.5281/zenodo.18736629)](https://doi.org/10.5281/zenodo.18736629)
+- **[ashrafkahoush-ux/what-if-oracle](https://github.com/ashrafkahoush-ux/Claude-consciousness-skills/tree/main/what-if-oracle)** - Structured What-If scenario analysis with 6 probability-weighted branches (Best, Likely, Worst, Wild Card, Contrarian, Second Order). Based on published research: [What-If Statement (DOI: 10.5281/zenodo.18736841)](https://doi.org/10.5281/zenodo.18736841)
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">n8n Automation</h3></summary>
 
 - **[czlonkowski/n8n-code-javascript](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript)** - JavaScript in n8n Code nodes with data access patterns
