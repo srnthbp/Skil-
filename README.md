@@ -613,6 +613,7 @@ Official curated skills from OpenAI's skills repository.
 - **[kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg/tree/main/skills/kreuzberg)** - Extract text, tables, and metadata from 62+ document formats
 - **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** - 20 specialized skills for resume optimization, ATS analysis, interview prep, and career transitions
 - **[RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills)** - Transform docs or codebases into Obsidian StudyVaults with interactive quizzes
+- **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - AI-native PM agent with 6 knowledge modules and 10 templates covering PRD, user stories, roadmaps, SaaS metrics, positioning, discovery, career coaching, and AI product strategy
 
 </details>
 
