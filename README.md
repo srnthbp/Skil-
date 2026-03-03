@@ -699,7 +699,7 @@ Official curated skills from OpenAI's skills repository.
 - **[lawvable/awesome-legal-skills](https://github.com/lawvable/awesome-legal-skills)** - Curated agent skills for automating legal workflows
 - **[peas/genealogy-research](https://paulo.com.br/skills/genealogy-research/SKILL.md)** - Genealogy research agent with OCR, FamilySearch, YAML data, and human-in-the-loop
 - **[zw008/VMware-AIops](https://github.com/zw008/VMware-AIops)** - AI-powered VMware vCenter/ESXi monitoring and operations: inventory queries, health/alarms, VM lifecycle (create, delete, snapshot, clone, migrate), vSAN management, Aria Operations analytics, and scheduled log scanning. Supports Claude Code, Gemini CLI, Codex, Aider, Trae, Kimi, and MCP.
-- **[kyberswap/kyberswap-skills](https://github.com/kyberswap/kyberswap-skills)** - Token swap quotes and transactions across 18 EVM chains
+- **[kybernetwork/kyberswap-skills](https://github.com/kybernetwork/kyberswap-skills)** - Token swap quotes and transactions across 18 EVM chains
 
 </details>
 
