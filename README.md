@@ -697,6 +697,8 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)** - X/Twitter data platform: extractions, monitoring, draws, MCP server
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 - **[blader/humanizer](https://github.com/blader/humanizer)** - Remove signs of AI-generated writing from text, making it sound more natural and human
+- **[ofershap/ai-humanizer](https://github.com/ofershap/ai-humanizer)** - Remove AI-detectable patterns from generated content
+- **[ofershap/readme-best-practices](https://github.com/ofershap/readme-best-practices)** - Write READMEs that sell, not just document
 
 </details>
 
@@ -794,6 +796,18 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[hamelsmu/build-review-interface](https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/build-review-interface)** - Build annotation interfaces for reviewing LLM traces
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes
+- **[ofershap/tailwind-best-practices](https://github.com/ofershap/tailwind-best-practices)** - Stop agents from generating Tailwind v3 code
+- **[ofershap/typescript-best-practices](https://github.com/ofershap/typescript-best-practices)** - Enforce strict mode, satisfies, discriminated unions
+- **[ofershap/python-best-practices](https://github.com/ofershap/python-best-practices)** - Modern Python 3.12+ patterns and Pydantic v2
+- **[ofershap/sveltekit-best-practices](https://github.com/ofershap/sveltekit-best-practices)** - Svelte 5 runes instead of Svelte 4 stores
+- **[ofershap/drizzle-best-practices](https://github.com/ofershap/drizzle-best-practices)** - Drizzle ORM patterns, not Prisma syntax
+- **[ofershap/fastapi-best-practices](https://github.com/ofershap/fastapi-best-practices)** - FastAPI async, Depends(), Pydantic v2 patterns
+- **[ofershap/shadcn-best-practices](https://github.com/ofershap/shadcn-best-practices)** - shadcn/ui component patterns and CLI usage
+- **[ofershap/expo-best-practices](https://github.com/ofershap/expo-best-practices)** - Expo Router, EAS Build, modern React Native
+- **[ofershap/flutter-best-practices](https://github.com/ofershap/flutter-best-practices)** - Modern Flutter/Dart 3 with GoRouter, Riverpod
+- **[ofershap/go-best-practices](https://github.com/ofershap/go-best-practices)** - Go error wrapping, slog, context, goroutine safety
+- **[ofershap/vibe-guard](https://github.com/ofershap/vibe-guard)** - Security guardrails for AI-generated code
+- **[ofershap/think-first](https://github.com/ofershap/think-first)** - Plan-before-code behavior modifier for agents
 
 </details>
 
@@ -810,6 +824,8 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[muratcankoylan/evaluation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation)** - Build evaluation frameworks for agent systems
 - **[k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol)** - Graph-based long-term memory skill for AI (LLM) coding agents — faster context, fewer tokens, safer refactors
 - **[NeoLabHQ/prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering)** - Widely used prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
+- **[ofershap/prompt-compression](https://github.com/ofershap/prompt-compression)** - Compress docs and prompts into minimal tokens
+- **[ofershap/conversation-memory](https://github.com/ofershap/conversation-memory)** - Search and recall past AI conversations
 
 </details>
 
