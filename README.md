@@ -824,6 +824,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg/tree/main/skills/kreuzberg)** - Extract text, tables, and metadata from 62+ document formats
 - **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** - 20 specialized skills for resume optimization, ATS analysis, interview prep, and career transitions
 - **[RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills)** - Transform docs or codebases into Obsidian StudyVaults with interactive quizzes
+- **[24kchengYe/human-skill-tree](https://github.com/24kchengYe/human-skill-tree)** - 31 AI agent skills for structured, science-backed lifelong learning. Covers K-12, university, research, career, social intelligence. Based on cognitive science (spaced repetition, active recall, Feynman technique)
 - **[NeoLabHQ/write-concisely](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/docs/skills/write-concisely)** - Applies the famous *The Elements of Style* book principles to make documentation and writing clearer and more professional by eliminating wordiness and improving structure.
 - **[ReScienceLab/opc-skills](https://github.com/ReScienceLab/opc-skills)** - Agent skills for solopreneurs with SEO, geo, and LLM tools
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** - Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting
