@@ -950,6 +950,13 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 
 </details>
 
+<details>
+<summary><h3 style="display:inline">Personal & Lifestyle</h3></summary>
+
+- **[G4rb3n/Hobby-Skill](https://github.com/G4rb3n/Hobby-Skill)** - Personal interest and personality analysis through digital footprint analysis (Xiaohongshu, Bilibili, Xianyu, etc.). Features browser automation for data collection, Big Five personality inference, interest categorization across 12 domains, conversational self-discovery, trend tracking, and scheduled daily collection. All data processed locally for privacy.
+
+</details>
+
 
 ## Skills Paths for Other AI Coding Assistants
 
