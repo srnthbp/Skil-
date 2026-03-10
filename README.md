@@ -893,6 +893,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes
 - **[NoizAI/skills](https://github.com/NoizAI/skills)** - Human-like TTS workflows with local/cloud APIs and app delivery
+- **[antbotlab/blueprint](https://github.com/antbotlab/blueprint)** - Turn a one-line objective into a step-by-step plan any agent can execute cold; each step has a self-contained context brief, adversarial review gate, dependency graph, and plan mutation protocol. Pure markdown — zero runtime risk.
 
 </details>
 
