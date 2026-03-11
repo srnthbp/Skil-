@@ -695,6 +695,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[phuryn/ab-test-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/ab-test-analysis)** - Analyze A/B test results with statistical significance and recommendations
 - **[phuryn/cohort-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/cohort-analysis)** - Cohort retention curves, feature adoption, and segment insights
 - **[phuryn/sql-queries](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/sql-queries)** - Generate SQL queries from natural language across major dialects
+- **[ChainAware/behavioral-prediction](https://github.com/ChainAware/behavioral-prediction-mcp)** - ChainAware Skill for AI-powered tools to analyze wallet behaviour prediction,fraud detection and rug pull prediction
 
 **Execution**
 
