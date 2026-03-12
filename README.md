@@ -48,6 +48,7 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 Recommended tools:
 
+- [GNAP](https://github.com/farol-team/gnap) — Git-Native Agent Protocol: coordinate AI agent teams with 4 JSON files in a git repo. No server, no database, just git push/pull. MIT.
 - [Synk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
 
