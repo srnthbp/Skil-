@@ -100,7 +100,6 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 - **[anthropics/web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder)** - Build complex claude.ai HTML artifacts with React and Tailwind
 - **[anthropics/mcp-builder](https://github.com/anthropics/skills/tree/main/skills/mcp-builder)** - Create MCP servers to integrate external APIs and services
 - **[anthropics/webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing)** - Test local web applications using Playwright
-- **[ksgisang/awt](https://github.com/ksgisang/AI-Watch-Tester)** - E2E testing with visual matching (OpenCV + OCR), platform auto-detection (Flutter/React/Vue), learning DB. Install: `npx skills add ksgisang/awt-skill --skill awt -g`. Beta — no API key needed in Skill Mode.
 - **[anthropics/brand-guidelines](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines)** - Apply Anthropic's brand colors and typography to artifacts
 - **[anthropics/internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms)** - Write status reports, newsletters, and FAQs
 - **[anthropics/skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)** - Guide for creating skills that extend Claude's capabilities
@@ -835,6 +834,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 <details>
 <summary><h3 style="display:inline">Development and Testing</h3></summary>
 
+- **[ksgisang/awt](https://github.com/ksgisang/AI-Watch-Tester)** - E2E testing with visual matching (OpenCV + OCR), platform auto-detection (Flutter/React/Vue), learning DB. Install: `npx skills add ksgisang/awt-skill --skill awt -g`. Beta — no API key needed in Skill Mode.
 - **[robzolkos/skill-rails-upgrade](https://github.com/robzolkos/skill-rails-upgrade)** - Analyze Rails apps and provide upgrade assessments
 - **[Shpigford/screenshots](https://github.com/Shpigford/skills/tree/main/screenshots)** - Generate marketing screenshots with Playwright
 - **[antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill)** - Terraform infrastructure as code best practices
