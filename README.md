@@ -828,6 +828,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[ReScienceLab/opc-skills](https://github.com/ReScienceLab/opc-skills)** - Agent skills for solopreneurs with SEO, geo, and LLM tools
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** - Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting
 - **[Charlie85270/Dorothy](https://github.com/Charlie85270/Dorothy)** - Orchestrate multiple AI CLI agents with automations and MCP servers
+- **[ChanMeng666/typst-claude-skill](https://github.com/ChanMeng666/typst-claude-skill)** - Professional document and PDF generation using Typst
 
 </details>
 
