@@ -848,6 +848,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** - Opinionated, evolving constraints to guide agents when building interfaces
 - **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** - UI/UX design patterns and best practices
 - **[ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills)** - 300+ design rules from Apple HIG, Material Design 3, and WCAG 2.2 for cross-platform apps
+- **[marsiandeployer/vibers-action](https://github.com/marsiandeployer/vibers-action)** - Human code review for AI-generated projects with PR fixes
 - **[scarletkc/vexor](https://github.com/scarletkc/vexor)** - Vector-powered CLI for semantic file search with a Claude/Codex skill
 - **[obra/test-driven-development](https://github.com/obra/superpowers/blob/main/skills/test-driven-development/SKILL.md)** - Write tests before implementing code
 - **[obra/subagent-driven-development](https://github.com/obra/superpowers/blob/main/skills/subagent-driven-development/SKILL.md)** - Development using multiple sub-agents
