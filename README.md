@@ -828,6 +828,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[ReScienceLab/opc-skills](https://github.com/ReScienceLab/opc-skills)** - Agent skills for solopreneurs with SEO, geo, and LLM tools
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** - Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting
 - **[Charlie85270/Dorothy](https://github.com/Charlie85270/Dorothy)** - Orchestrate multiple AI CLI agents with automations and MCP servers
+- **[Scottcjn/grazer-skill](https://github.com/Scottcjn/grazer-skill)** - Cross-platform content discovery and management for BoTTube, Moltbook, 4claw, and PinchedIn with video uploads, comments, and social feeds
 
 </details>
 
@@ -937,6 +938,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[video-db/skills](https://github.com/video-db/skills)** - Realtime and batch video workflows: capture screen/audio, ingest URLs/YouTube/RTSP, transcribe, index, search, generate subtitles, edit timelines, and stream HLS output
 - **[materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills)** - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing
 - **[takechanman1228/claude-ecom](https://github.com/takechanman1228/claude-ecom)** - Ecommerce CSV to business review with KPI decomposition
+- **[Scottcjn/beacon-skill](https://github.com/Scottcjn/beacon-skill)** - AI agent discovery, registration, and P2P messaging via Beacon relay with RTC gas payments and agent lifecycle management
 
 </details>
 
