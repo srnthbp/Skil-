@@ -937,6 +937,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[video-db/skills](https://github.com/video-db/skills)** - Realtime and batch video workflows: capture screen/audio, ingest URLs/YouTube/RTSP, transcribe, index, search, generate subtitles, edit timelines, and stream HLS output
 - **[materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills)** - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing
 - **[takechanman1228/claude-ecom](https://github.com/takechanman1228/claude-ecom)** - Ecommerce CSV to business review with KPI decomposition
+- **[proxygate-official/proxygate](https://github.com/proxygate-official/proxygate)** - API marketplace for AI agents — buy and sell API capacity with USDC on Solana. Skills: pg-setup, pg-buy, pg-sell, pg-jobs, pg-status, pg-update. Install: `npx skills add proxygate-official/proxygate`. [Website](https://proxygate.ai) · [npm CLI](https://www.npmjs.com/package/@proxygate/cli) · [npm SDK](https://www.npmjs.com/package/@proxygate/sdk)
 
 </details>
 
