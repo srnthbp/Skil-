@@ -894,6 +894,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes
 - **[NoizAI/skills](https://github.com/NoizAI/skills)** - Human-like TTS workflows with local/cloud APIs and app delivery
 - **[Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab)** - Collaborate with Codex from Claude Code
+- **[nicofains1/agentwatch](https://github.com/nicofains1/agentwatch)** - Multi-agent observability and cascade failure detection
 
 </details>
 
