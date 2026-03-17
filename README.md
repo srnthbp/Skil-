@@ -783,6 +783,9 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 
 ### Community Skills
 
+- **[Free Web Search Ultimate](https://github.com/wd041216-bit/free-web-search-ultimate)** - Zero-cost, privacy-first universal web search MCP server. Enforces a Search-First paradigm — instructs LLMs to retrieve real-time web information before answering factual questions, eliminating hallucinations. Supports text, news, images, books, and videos via DuckDuckGo. No API key required. Install: `pip install free-web-search-ultimate`
+
+
 <details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
