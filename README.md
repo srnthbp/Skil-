@@ -1,4 +1,3 @@
-<a href="https://github.com/VoltAgent/voltagent">
      <img width="1500" height="801" alt="claude-skills" src="https://github.com/user-attachments/assets/3a9d4cb3-04bd-4fb1-9146-fd3b53d26961" />
 </a>
 
@@ -938,6 +937,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[video-db/skills](https://github.com/video-db/skills)** - Realtime and batch video workflows: capture screen/audio, ingest URLs/YouTube/RTSP, transcribe, index, search, generate subtitles, edit timelines, and stream HLS output
 - **[materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills)** - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing
 - **[takechanman1228/claude-ecom](https://github.com/takechanman1228/claude-ecom)** - Ecommerce CSV to business review with KPI decomposition
+- **[meshy-dev/meshy-3d-agent](https://github.com/meshy-dev/meshy-3d-agent)** - Full 3D generation pipeline via Meshy AI: text/image-to-3D, retexture, rig, animate, and 3D print preparation with Bambu Studio integration
 
 </details>
 
