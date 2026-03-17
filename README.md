@@ -790,6 +790,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
 - **[BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills)** - 17 marketing frameworks for cold outreach, homepage audit, social cards, and more
+- **[Free Web Search Ultimate](https://github.com/wd041216-bit/free-web-search-ultimate)** - Universal Search-First knowledge acquisition plugin. Transforms any LLM to prioritize real-time web search over training data. Zero-cost, no API key, MCP + OpenClaw compatible.
 - **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** - Universal SEO skill for comprehensive website analysis and optimization
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
 - **[CosmoBlk/email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible)** - 55K-word email marketing guide as an AI skill
