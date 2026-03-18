@@ -872,6 +872,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[AvdLee/swiftui-expert-skill](https://github.com/AvdLee/SwiftUI-Agent-Skill/tree/main/swiftui-expert-skill)** - Modern SwiftUI best practices and iOS 26+ Liquid Glass adoption
 - **[efremidze/swift-patterns-skill](https://github.com/efremidze/swift-patterns-skill/tree/main/swift-patterns)** - Modern Swift/SwiftUI best practices
 - **[Joannis/claude-skills](https://github.com/Joannis/claude-skills)** - Swift Server development guidance with linting tool for best practices
+- **[Wolfe-Jam/faf-skills](https://github.com/Wolfe-Jam/faf-skills)** - 17 skills for AI-context management, testing, and MCP development. IANA-registered format (`application/vnd.faf+yaml`). Create `.faf` project DNA, score AI-readiness (0-100%), sync with CLAUDE.md, generate test suites. 36,000+ downloads
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Automate App Store deployments and management using ASC CLI
 - **[rameerez/claude-code-startup-skills](https://github.com/rameerez/claude-code-startup-skills)** - Skills for building and running software startups, apps, and SaaS
 - **[zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill)** - Cost-optimized model routing based on task complexity
