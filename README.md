@@ -912,7 +912,8 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[NoizAI/skills](https://github.com/NoizAI/skills)** - Human-like TTS workflows with local/cloud APIs and app delivery
 - **[Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab)** - Collaborate with Codex from Claude Code
 - **[ethos-link/rails-conventions](https://github.com/ethos-link/rails-conventions)** - Rails 8 conventions for consistent production code changes
- 
+- **[useparadigm/skill_a_thon](https://github.com/useparadigm/skill_a_thon)** - Cross-system blast radius analysis for code review: map call graphs, remote calls (HTTP, Kafka, gRPC), DB access, and propagation chains across your entire codebase via Paradigm MCP
+
 </details>
 
 <details>
