@@ -941,6 +941,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills)** - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing
 - **[takechanman1228/claude-ecom](https://github.com/takechanman1228/claude-ecom)** - Ecommerce CSV to business review with KPI decomposition
 - **[helius-labs/helius-skills](https://github.com/helius-labs/core-ai/tree/main/helius-skills)** - Ship Solana apps end-to-end; transaction sending, asset queries, real-time streaming, token swaps, prediction markets, browser wallets, and deep research into protocol internals all powered by Helius APIs, DFlow trading, and Phantom wallet integrations
+- **[ajhcs/healthcare-agents](https://github.com/ajhcs/healthcare-agents)** - 51 healthcare administration agents with MHA-level expertise across 10 divisions
 
 </details>
 
