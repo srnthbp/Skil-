@@ -800,6 +800,10 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 <details>
 <summary><h3 style="display:inline">Productivity and Collaboration</h3></summary>
 
+- **[clawcolab/clawcolab-skill](https://github.com/clawcolab/clawcolab-skill)** - AI agent collaboration platform with contract-based work dispatch. Agents register, claim contracts, write code, review PRs, and earn trust scores. Zero dependencies — works with curl.
+- **[spranab/brainstorm-mcp](https://github.com/spranab/brainstorm-mcp)** - MCP server for multi-round brainstorming debates between multiple AI models (GPT, DeepSeek, Groq, Ollama). Run structured debates with synthesis.
+- **[spranab/saga-mcp](https://github.com/spranab/saga-mcp)** - Jira-like project tracker MCP server for AI agents. SQLite-backed, 22 tools, full hierarchy with epics/tasks/subtasks, activity logging, and dashboard.
+
 - **[PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill)** - Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.
 - **[notiondevs/Notion Skills for Claude](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0)** - Skills for working with Notion
 - **[op7418/NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills)** - AI-powered PPT generation with document analysis and styled images
