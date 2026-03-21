@@ -845,6 +845,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[Xquik-dev/tweetclaw](https://github.com/Xquik-dev/tweetclaw)** - 40+ X/Twitter actions: post, extract, monitor, compose
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 - **[blader/humanizer](https://github.com/blader/humanizer)** - Remove signs of AI-generated writing from text, making it sound more natural and human
+- **[ekinciio/saas-growth-marketing-skills](https://github.com/ekinciio/saas-growth-marketing-skills)** - 15 growth marketing skills and 3 agents for GEO, SEO, CRO, and ASO
 
 </details>
 
