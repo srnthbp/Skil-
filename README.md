@@ -881,6 +881,9 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[Charlie85270/Dorothy](https://github.com/Charlie85270/Dorothy)** - Orchestrate multiple AI CLI agents with automations and MCP servers
 - **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 30+ frameworks and SaaS metrics
 
+- **[skill-cn-content-matrix](https://github.com/fullstackcrew-alpha/skill-cn-content-matrix)** - Chinese multi-platform content generator for Xiaohongshu, WeChat, Douyin, Bilibili with true style transfer
+- **[skill-overnight-worker](https://github.com/fullstackcrew-alpha/skill-overnight-worker)** - Autonomous overnight work agent. Assign tasks before sleep, get structured results by morning
+
 </details>
 
 <details>
@@ -948,6 +951,10 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab)** - Collaborate with Codex from Claude Code
 - **[ethos-link/rails-conventions](https://github.com/ethos-link/rails-conventions)** - Rails 8 conventions for consistent production code changes
  
+- **[skill-cost-optimizer](https://github.com/fullstackcrew-alpha/skill-cost-optimizer)** - Save 60-80% on AI token costs with smart model routing, context compression, and heartbeat tuning
+- **[skill-devops-agent](https://github.com/fullstackcrew-alpha/skill-devops-agent)** - One-click deploy, monitoring setup, scheduled backups, fault diagnosis with safety-first design
+- **[skill-smart-pr-review](https://github.com/fullstackcrew-alpha/skill-smart-pr-review)** - Opinionated AI code reviewer with 6-layer deep review, Devil's Advocate mode, MUST FIX/SHOULD FIX/SUGGESTION output
+
 </details>
 
 <details>
