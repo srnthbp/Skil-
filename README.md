@@ -947,7 +947,18 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[NoizAI/skills](https://github.com/NoizAI/skills)** - Human-like TTS workflows with local/cloud APIs and app delivery
 - **[Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab)** - Collaborate with Codex from Claude Code
 - **[ethos-link/rails-conventions](https://github.com/ethos-link/rails-conventions)** - Rails 8 conventions for consistent production code changes
- 
+- **[byronxlg/skillfold/planning](https://github.com/byronxlg/skillfold/tree/main/library/skills/planning)** - Break problems into steps and estimate scope
+- **[byronxlg/skillfold/research](https://github.com/byronxlg/skillfold/tree/main/library/skills/research)** - Gather information and synthesize findings
+- **[byronxlg/skillfold/decision-making](https://github.com/byronxlg/skillfold/tree/main/library/skills/decision-making)** - Evaluate trade-offs and justify recommendations
+- **[byronxlg/skillfold/code-writing](https://github.com/byronxlg/skillfold/tree/main/library/skills/code-writing)** - Write clean, production-quality code
+- **[byronxlg/skillfold/code-review](https://github.com/byronxlg/skillfold/tree/main/library/skills/code-review)** - Review code for correctness and security
+- **[byronxlg/skillfold/testing](https://github.com/byronxlg/skillfold/tree/main/library/skills/testing)** - Write and reason about tests and edge cases
+- **[byronxlg/skillfold/writing](https://github.com/byronxlg/skillfold/tree/main/library/skills/writing)** - Produce clear, structured prose and documentation
+- **[byronxlg/skillfold/summarization](https://github.com/byronxlg/skillfold/tree/main/library/skills/summarization)** - Condense information for target audiences
+- **[byronxlg/skillfold/github-workflow](https://github.com/byronxlg/skillfold/tree/main/library/skills/github-workflow)** - Work with branches, PRs, and issues via gh
+- **[byronxlg/skillfold/file-management](https://github.com/byronxlg/skillfold/tree/main/library/skills/file-management)** - Read, create, edit, and organize files
+- **[byronxlg/skillfold/skillfold-cli](https://github.com/byronxlg/skillfold/tree/main/library/skills/skillfold-cli)** - Manage multi-agent pipeline configs
+
 </details>
 
 <details>
