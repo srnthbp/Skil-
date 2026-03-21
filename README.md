@@ -17,15 +17,31 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Skills Count](https://img.shields.io/badge/Skills-630+-blue?style=flat-square)
+![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)
 <a href="https://github.com/VoltAgent/voltagent">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a>
-
-[![AI Agent Papers](https://img.shields.io/badge/AI%20Agent-Research%20Papers-b31b1b)](https://github.com/VoltAgent/awesome-ai-agent-papers)
-![Skills Count](https://img.shields.io/badge/Skills-549+-blue?style=flat-square)
-![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
-[![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=social)](https://github.com/VoltAgent/awesome-agent-skills/network/members)
+
+
+<div align="center">
+    <strong>More awesome collections for developers</strong>
+    <br />
+    <br />
+</div>
+
+<div align="center">
+
+
+[![Claude Code Subagents](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=classic&label=Claude%20Code%20Subagents&color=D97757&logo=claude&logoColor=D97757)](https://github.com/VoltAgent/awesome-claude-code-subagents)
+[![Codex Subagents][codex-badge]][codex-link]
+[![OpenClaw Skills](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=classic&label=%F0%9F%A6%9E%20OpenClaw%20Skills&color=f53e36)](https://github.com/VoltAgent/awesome-openclaw-skills)
+[![AI Agent Papers](https://img.shields.io/github/stars/VoltAgent/awesome-ai-agent-papers?style=classic&label=AI%20Agent%20Papers&color=b31b1b&logo=arxiv)](https://github.com/VoltAgent/awesome-ai-agent-papers)
+
+</div>
+
+</div>
 
 </div>
 
@@ -121,7 +137,10 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 - **[supabase/postgres-best-practices](https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices)** - PostgreSQL best practices for Supabase
 
 ### Skills by Google Gemini
-- **[google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills)** - A library of skills for the Gemini API, SDK and model interactions.
+- **[google-gemini/gemini-api-dev](https://github.com/google-gemini/gemini-skills/tree/main/skills/gemini-api-dev)** - Best practices for developing Gemini-powered apps using the Gemini API
+- **[google-gemini/vertex-ai-api-dev](https://github.com/google-gemini/gemini-skills/tree/main/skills/vertex-ai-api-dev)** - Developing Gemini-powered apps on Google Cloud Vertex AI using the Gen AI SDK
+- **[google-gemini/gemini-live-api-dev](https://github.com/google-gemini/gemini-skills/tree/main/skills/gemini-live-api-dev)** - Building real-time bidirectional streaming apps with the Gemini Live API
+- **[google-gemini/gemini-interactions-api](https://github.com/google-gemini/gemini-skills/tree/main/skills/gemini-interactions-api)** - Building apps with the Gemini Interactions API for text, chat, streaming, and image generation
 
 ### Skills by Stripe Team
 - **[stripe/stripe-best-practices](https://github.com/stripe/ai/tree/main/skills/stripe-best-practices)** - Best practices for building Stripe integrations
@@ -132,19 +151,20 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 - **[callstackincubator/github](https://github.com/callstackincubator/agent-skills/tree/main/skills/github)** - GitHub workflow patterns for PRs, code review, branching
 - **[callstackincubator/upgrading-react-native](https://github.com/callstackincubator/agent-skills/tree/main/skills/upgrading-react-native)** - React Native upgrade workflow: templates, dependencies, and common pitfalls
 
-### Skills by Expo Team
-Official AI agent skills from the Expo team for building, deploying, and debugging Expo apps.
-- **[expo/expo-app-design](https://github.com/expo/skills/tree/main/plugins/expo-app-design)** - Design and build Expo applications
-- **[expo/expo-deployment](https://github.com/expo/skills/tree/main/plugins/expo-deployment)** - Deploy Expo apps to production
-- **[expo/upgrading-expo](https://github.com/expo/skills/tree/main/plugins/upgrading-expo)** - Upgrade Expo SDK versions
-
 ### Skills by Better Auth Team
 - **[better-auth/best-practices](https://github.com/better-auth/skills/tree/main/better-auth/best-practices)** - Best practices for Better Auth integration
-- **[better-auth/commands](https://github.com/better-auth/skills/tree/main/better-auth/commands)** - Better Auth CLI commands
+- **[better-auth/explain-error](https://github.com/better-auth/skills/blob/main/better-auth/commands/explain-error.md)** - Explain Better Auth error messages
+- **[better-auth/providers](https://github.com/better-auth/skills/blob/main/better-auth/commands/providers.md)** - Better Auth authentication providers
 - **[better-auth/create-auth](https://github.com/better-auth/skills/tree/main/better-auth/create-auth)** - Create authentication setup with Better Auth
+- **[better-auth/emailAndPassword](https://github.com/better-auth/skills/tree/main/better-auth/emailAndPassword)** - Email and password authentication with Better Auth
+- **[better-auth/organization](https://github.com/better-auth/skills/tree/main/better-auth/organization)** - Organization management with Better Auth
+- **[better-auth/twoFactor](https://github.com/better-auth/skills/tree/main/better-auth/twoFactor)** - Two-factor authentication with Better Auth
 
 ### Skills by Tinybird Team
 - **[tinybirdco/tinybird-best-practices](https://github.com/tinybirdco/tinybird-agent-skills/tree/main/skills/tinybird-best-practices)** - Tinybird project guidelines for datasources, pipes, endpoints, and SQL
+- **[tinybirdco/tinybird-cli-guidelines](https://github.com/tinybirdco/tinybird-agent-skills/tree/main/skills/tinybird-cli-guidelines)** - Tinybird CLI usage guidelines and commands
+- **[tinybirdco/tinybird-python-sdk-guidelines](https://github.com/tinybirdco/tinybird-agent-skills/tree/main/skills/tinybird-python-sdk-guidelines)** - Tinybird Python SDK usage guidelines
+- **[tinybirdco/tinybird-typescript-sdk-guidelines](https://github.com/tinybirdco/tinybird-agent-skills/tree/main/skills/tinybird-typescript-sdk-guidelines)** - Tinybird TypeScript SDK usage guidelines
 
 ### Skills by HashiCorp Team for Terraform
 - **[hashicorp/terraform-code-generation](https://github.com/hashicorp/agent-skills/tree/main/terraform/code-generation)** - Generate and validate Terraform HCL code
@@ -159,13 +179,19 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 
 ### Skills by Firecrawl Team
 - **[firecrawl/firecrawl-cli](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-cli)** - Scrape, crawl, search, and map the web via CLI
-- **[firecrawl/firecrawl-claude-plugin](https://github.com/firecrawl/firecrawl-claude-plugin)** - Claude Code plugin for web scraping and search
+- **[firecrawl/firecrawl-agent](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-agent)** - AI agent for autonomous web scraping and data extraction
+- **[firecrawl/firecrawl-browser](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-browser)** - Browser-based web scraping and interaction
+- **[firecrawl/firecrawl-crawl](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-crawl)** - Crawl websites and extract structured data
+- **[firecrawl/firecrawl-download](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-download)** - Download web content and files
+- **[firecrawl/firecrawl-map](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-map)** - Map website structure and sitemaps
+- **[firecrawl/firecrawl-scrape](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-scrape)** - Scrape web pages and extract content
+- **[firecrawl/firecrawl-search](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-search)** - Search the web and extract results
 
-### Skills by Neon 
-- **[neondatabase/using-neon](https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres)** - Best practices for Neon Serverless Postgres
+### Skills by Neon
+- **[neondatabase/neon-postgres](https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres)** - Best practices for Neon Serverless Postgres
+- **[neondatabase/claimable-postgres](https://github.com/neondatabase/agent-skills/tree/main/skills/claimable-postgres)** - Claimable Postgres database provisioning with Neon
+- **[neondatabase/neon-postgres-egress-optimizer](https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres-egress-optimizer)** - Optimize Neon Postgres egress and data transfer
 
-### Skills by Cloudflare Engineer 
-- **[dmmulroy/cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skills/cloudflare)** - Cloudflare platform reference for Workers, Pages, storage, AI, and networking
 
 ### Skill by ClickHouse 
 - **[ClickHouse/agent-skills](https://github.com/ClickHouse/agent-skills)** - The official Agent Skills for [ClickHouse](https://clickhouse.com/). These skills help LLMs and agents to adopt best practices when working with ClickHouse.
@@ -273,18 +299,43 @@ Official Google Workspace CLI skills for managing Google Workspace services via 
 </details>
 
 <details>
+<summary><h3 style="display:inline">Skills by Expo Team</h3></summary>
+
+Official AI agent skills from the Expo team for building, deploying, and debugging Expo apps.
+
+- **[expo/building-native-ui](https://github.com/expo/skills/tree/main/plugins/expo/skills/building-native-ui)** - Build apps with Expo Router, styling, components, navigation, and animations
+- **[expo/expo-api-routes](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-api-routes)** - Create API routes in Expo Router with EAS Hosting
+- **[expo/expo-cicd-workflows](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-cicd-workflows)** - CI/CD workflows for Expo projects
+- **[expo/expo-deployment](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-deployment)** - Deploy Expo apps to production
+- **[expo/expo-dev-client](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-dev-client)** - Build and distribute Expo dev clients locally or via TestFlight
+- **[expo/expo-tailwind-setup](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-tailwind-setup)** - Set up Tailwind CSS v4 in Expo with NativeWind v5
+- **[expo/expo-ui-jetpack-compose](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-ui-jetpack-compose)** - Jetpack Compose UI components for Expo
+- **[expo/expo-ui-swift-ui](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-ui-swift-ui)** - SwiftUI components for Expo
+- **[expo/native-data-fetching](https://github.com/expo/skills/tree/main/plugins/expo/skills/native-data-fetching)** - Network requests, API calls, caching, and offline support
+- **[expo/upgrading-expo](https://github.com/expo/skills/tree/main/plugins/expo/skills/upgrading-expo)** - Upgrade Expo SDK versions
+- **[expo/use-dom](https://github.com/expo/skills/tree/main/plugins/expo/skills/use-dom)** - Run web code in a webview on native using DOM components
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Skills by Hugging Face Team</h3></summary>
 
 Official AI agent skills from the Hugging Face team for ML workflows.
 
+- **[huggingface/hf-cli](https://github.com/huggingface/skills/tree/main/skills/hf-cli)** - HF CLI tool for Hub operations
 - **[huggingface/hugging-face-cli](https://github.com/huggingface/skills/tree/main/skills/hugging-face-cli)** - HF Hub CLI for models, datasets, repos, and compute jobs
+- **[huggingface/hugging-face-dataset-viewer](https://github.com/huggingface/skills/tree/main/skills/hugging-face-dataset-viewer)** - Browse and query HF datasets with the Dataset Viewer API
 - **[huggingface/hugging-face-datasets](https://github.com/huggingface/skills/tree/main/skills/hugging-face-datasets)** - Create and manage datasets with configs and SQL querying
 - **[huggingface/hugging-face-evaluation](https://github.com/huggingface/skills/tree/main/skills/hugging-face-evaluation)** - Model evaluation with vLLM/lighteval and eval tables
 - **[huggingface/hugging-face-jobs](https://github.com/huggingface/skills/tree/main/skills/hugging-face-jobs)** - Run compute jobs and Python scripts on HF infrastructure
 - **[huggingface/hugging-face-model-trainer](https://github.com/huggingface/skills/tree/main/skills/hugging-face-model-trainer)** - Train models with TRL: SFT, DPO, GRPO, GGUF conversion
+- **[huggingface/hugging-face-paper-pages](https://github.com/huggingface/skills/tree/main/skills/hugging-face-paper-pages)** - Create and manage paper pages on HF Hub
 - **[huggingface/hugging-face-paper-publisher](https://github.com/huggingface/skills/tree/main/skills/hugging-face-paper-publisher)** - Publish papers on HF Hub with model/dataset links
 - **[huggingface/hugging-face-tool-builder](https://github.com/huggingface/skills/tree/main/skills/hugging-face-tool-builder)** - Build reusable scripts for HF API operations
 - **[huggingface/hugging-face-trackio](https://github.com/huggingface/skills/tree/main/skills/hugging-face-trackio)** - Track ML experiments with real-time dashboards
+- **[huggingface/hugging-face-vision-trainer](https://github.com/huggingface/skills/tree/main/skills/hugging-face-vision-trainer)** - Train vision models on HF infrastructure
+- **[huggingface/huggingface-gradio](https://github.com/huggingface/skills/tree/main/skills/huggingface-gradio)** - Build Gradio apps and deploy to HF Spaces
+- **[huggingface/transformers.js](https://github.com/huggingface/skills/tree/main/skills/transformers.js)** - Run ML models in the browser with Transformers.js
 
 </details>
 
@@ -791,7 +842,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
 - **[CosmoBlk/email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible)** - 55K-word email marketing guide as an AI skill
 - **[smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)** - AI creative director with recursive self-assessment: 20+ methodologies (SIT, TRIZ, Bisociation, SCAMPER, Synectics), 3-axis evaluation calibrated against Cannes/D&AD/HumanKind, 5-phase process from brief to presentation
-- **[Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)** - X/Twitter data platform: extractions, monitoring, draws, MCP server
+- **[Xquik-dev/tweetclaw](https://github.com/Xquik-dev/tweetclaw)** - 40+ X/Twitter actions: post, extract, monitor, compose
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 - **[blader/humanizer](https://github.com/blader/humanizer)** - Remove signs of AI-generated writing from text, making it sound more natural and human
 
@@ -828,6 +879,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[ReScienceLab/opc-skills](https://github.com/ReScienceLab/opc-skills)** - Agent skills for solopreneurs with SEO, geo, and LLM tools
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** - Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting
 - **[Charlie85270/Dorothy](https://github.com/Charlie85270/Dorothy)** - Orchestrate multiple AI CLI agents with automations and MCP servers
+- **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 30+ frameworks and SaaS metrics
 
 </details>
 
@@ -893,7 +945,9 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes
 - **[NoizAI/skills](https://github.com/NoizAI/skills)** - Human-like TTS workflows with local/cloud APIs and app delivery
-
+- **[Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab)** - Collaborate with Codex from Claude Code
+- **[ethos-link/rails-conventions](https://github.com/ethos-link/rails-conventions)** - Rails 8 conventions for consistent production code changes
+ 
 </details>
 
 <details>
@@ -938,6 +992,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills)** - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing
 - **[takechanman1228/claude-ecom](https://github.com/takechanman1228/claude-ecom)** - Ecommerce CSV to business review with KPI decomposition
 - **[proxygate-official/proxygate](https://github.com/proxygate-official/proxygate)** - API marketplace for AI agents — buy and sell API capacity with USDC on Solana
+- **[helius-labs/helius-skills](https://github.com/helius-labs/core-ai/tree/main/helius-skills)** - Ship Solana apps end-to-end; transaction sending, asset queries, real-time streaming, token swaps, prediction markets, browser wallets, and deep research into protocol internals all powered by Helius APIs, DFlow trading, and Phantom wallet integrations
 
 </details>
 
@@ -1003,3 +1058,6 @@ MIT License - see [LICENSE](LICENSE)
 This is a curated list. Skills listed here are created and maintained by their respective authors and teams, not by us. We select community-adopted, proven skills and do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
 If you find an issue with a listed skill or want your skill removed, please [open an issue](https://github.com/VoltAgent/awesome-agent-skills/issues) and we'll take care of it promptly.
+
+[codex-badge]: https://img.shields.io/github/stars/VoltAgent/awesome-codex-subagents?style=classic&label=Codex%20Subagents&color=000000&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDMgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNS45ODUgNS45ODUgMCAwIDAgMTMuMjYgMjRhNi4wNTYgNi4wNTYgMCAwIDAgNS43NzItNC4yMDYgNS45OSA1Ljk5IDAgMCAwIDMuOTk3LTIuOSA2LjA1NiA2LjA1NiAwIDAgMC0uNzQ3LTcuMDczek0xMy4yNiAyMi40M2E0LjQ3NiA0LjQ3NiAwIDAgMS0yLjg3Ni0xLjA0bC4xNDEtLjA4MSA0Ljc3OS0yLjc1OGEuNzk1Ljc5NSAwIDAgMCAuMzkyLS42ODF2LTYuNzM3bDIuMDIgMS4xNjhhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODNhNC41MDQgNC41MDQgMCAwIDEtNC40OTQgNC40OTR6TTMuNiAxOC4zMDRhNC40NyA0LjQ3IDAgMCAxLS41MzUtMy4wMTRsLjE0Mi4wODUgNC43ODMgMi43NTlhLjc3MS43NzEgMCAwIDAgLjc4IDBsNS44NDMtMy4zNjl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDcuODk2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc2Ni43NjYgMCAwIDAgLjM4OC42NzZsNS44MTUgMy4zNTUtMi4wMiAxLjE2OGEuMDc2LjA3NiAwIDAgMS0uMDcxIDBsLTQuODMtMi43ODZBNC41MDQgNC41MDQgMCAwIDEgMi4zNCA3Ljg3MnptMTYuNTk3IDMuODU1bC01LjgzMy0zLjM4N0wxNS4xMTkgNy4yYS4wNzYuMDc2IDAgMCAxIC4wNzEgMGw0LjgzIDIuNzkxYTQuNDk0IDQuNDk0IDAgMCAxLS42NzYgOC4xMDV2LTUuNjc4YS43OS43OSAwIDAgMC0uNDA3LS42Njd6bTIuMDEtMy4wMjNsLS4xNDEtLjA4NS00Ljc3NC0yLjc4MmEuNzc2Ljc3NiAwIDAgMC0uNzg1IDBMOS40MDkgOS4yM1Y2Ljg5N2EuMDY2LjA2NiAwIDAgMSAuMDI4LS4wNjFsNC44My0yLjc4N2E0LjUgNC41IDAgMCAxIDYuNjggNC42NnptLTEyLjY0IDQuMTM1bC0yLjAyLTEuMTY0YS4wOC4wOCAwIDAgMS0uMDM4LS4wNTdWNi4wNzVhNC41IDQuNSAwIDAgMSA3LjM3NS0zLjQ1M2wtLjE0Mi4wOEw4LjcwNCA1LjQ2YS43OTUuNzk1IDAgMCAwLS4zOTMuNjgxem0xLjA5Ny0yLjM2NWwyLjYwMi0xLjUgMi42MDcgMS41djIuOTk5bC0yLjU5NyAxLjUtMi42MDctMS41eiIvPjwvc3ZnPg==
+[codex-link]: https://github.com/VoltAgent/awesome-codex-subagents
