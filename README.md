@@ -880,6 +880,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** - Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting
 - **[Charlie85270/Dorothy](https://github.com/Charlie85270/Dorothy)** - Orchestrate multiple AI CLI agents with automations and MCP servers
 - **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 30+ frameworks and SaaS metrics
+- **[Ginning-ZDZQ/using-muti-skills](https://github.com/Ginning-ZDZQ/using-muti-skills)** - Orchestrate multiple skills simultaneously on the same problem — each agent invokes a real skill pipeline with independent research, then cross-validates findings through structured adversarial debate rounds, producing emergent insights no single skill could discover alone
 
 </details>
 
