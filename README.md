@@ -948,6 +948,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab)** - Collaborate with Codex from Claude Code
 - **[ethos-link/rails-conventions](https://github.com/ethos-link/rails-conventions)** - Rails 8 conventions for consistent production code changes
  
+- **[fullstackcrew-alpha/skill-cost-optimizer](https://github.com/fullstackcrew-alpha/skill-cost-optimizer)** - Save 60-80% on AI token costs with smart model routing, context compression, heartbeat tuning, usage reports, and config generation
 </details>
 
 <details>
