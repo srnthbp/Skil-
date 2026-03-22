@@ -881,6 +881,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[Charlie85270/Dorothy](https://github.com/Charlie85270/Dorothy)** - Orchestrate multiple AI CLI agents with automations and MCP servers
 - **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 30+ frameworks and SaaS metrics
 
+- **[fullstackcrew-alpha/skill-cn-content-matrix](https://github.com/fullstackcrew-alpha/skill-cn-content-matrix)** - Chinese multi-platform content generator for Xiaohongshu, WeChat, Douyin, and Bilibili with true style transfer, compliance review, and sensitive word detection
 </details>
 
 <details>
