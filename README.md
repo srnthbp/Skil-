@@ -948,6 +948,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab)** - Collaborate with Codex from Claude Code
 - **[ethos-link/rails-conventions](https://github.com/ethos-link/rails-conventions)** - Rails 8 conventions for consistent production code changes
  
+- **[fullstackcrew-alpha/skill-smart-pr-review](https://github.com/fullstackcrew-alpha/skill-smart-pr-review)** - Opinionated AI code reviewer with 6-layer deep review, Devil's Advocate mode, and standardized MUST FIX / SHOULD FIX / SUGGESTION output for TS/JS, Python, Go, Rust
 </details>
 
 <details>
