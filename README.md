@@ -1002,7 +1002,8 @@ Official GSAP animation skills covering the full GreenSock ecosystem — core AP
 - **[Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab)** - Collaborate with Codex from Claude Code
 - **[ethos-link/rails-conventions](https://github.com/ethos-link/rails-conventions)** - Rails 8 conventions for consistent production code changes
 - **[ShunsukeHayashi/agent-skill-bus](https://github.com/ShunsukeHayashi/agent-skill-bus)** - Self-improving task orchestration for AI agent systems
- 
+- **[Vers-Labs/gentik-domains-skill](https://github.com/Vers-Labs/gentik-domains-skill)** - Register and manage domains for AI agents via Ed25519-authenticated API with human payment flow
+
 </details>
 
 <details>
