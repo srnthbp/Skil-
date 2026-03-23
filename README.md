@@ -1047,6 +1047,7 @@ Official GSAP animation skills covering the full GreenSock ecosystem — core AP
 - **[materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills)** - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing
 - **[takechanman1228/claude-ecom](https://github.com/takechanman1228/claude-ecom)** - Ecommerce CSV to business review with KPI decomposition
 - **[helius-labs/helius-skills](https://github.com/helius-labs/core-ai/tree/main/helius-skills)** - Ship Solana apps end-to-end; transaction sending, asset queries, real-time streaming, token swaps, prediction markets, browser wallets, and deep research into protocol internals all powered by Helius APIs, DFlow trading, and Phantom wallet integrations
+- **[eamanc-lab/openclaw-persona-forge](https://github.com/eamanc-lab/openclaw-persona-forge)** - Forge complete lobster souls for OpenClaw AI agents
 
 </details>
 
