@@ -880,6 +880,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** - Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting
 - **[Charlie85270/Dorothy](https://github.com/Charlie85270/Dorothy)** - Orchestrate multiple AI CLI agents with automations and MCP servers
 - **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 30+ frameworks and SaaS metrics
+- **[amenti-labs/opendivination](https://github.com/amenti-labs/opendivination)** - Tarot and I Ching SDK plus installable divination skill with auditable entropy provenance, guided QRNG setup, and optional resonance mode
 
 </details>
 
