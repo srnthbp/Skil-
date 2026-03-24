@@ -87,7 +87,6 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 | [Skills by Binance](#skills-by-binance) | [Product Manager Skills by Dean Peters](#product-manager-skills-by-dean-peters) | [Product Management Skills by Paweł Huryn](#product-management-skills-by-pawel-huryn) |
 | [Skills by MiniMax](#skills-by-minimax-team) | [Skills by DuckDB](#skills-by-duckdb) | [Skills by GSAP](#skills-by-gsap-greensock) |
 | [Community Skills](#community-skills) | [Skill Quality Standards](#skill-quality-standards) | |
-**[khendzel/skills-janitor](https://github.com/khendzel/skills-janitor)** - Audit, deduplicate, check, fix, and track usage of your Claude Code skills. 9 actions, zero dependencies.
 
 
 
@@ -884,6 +883,8 @@ Official GSAP animation skills covering the full GreenSock ecosystem — core AP
 
 ### Community Skills
 
+
+**[khendzel/skills-janitor](https://github.com/khendzel/skills-janitor)** - Audit, deduplicate, check, fix, and track usage of your Claude Code skills. 9 actions, zero dependencies.
 <details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
