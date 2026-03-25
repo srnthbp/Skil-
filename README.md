@@ -896,6 +896,8 @@ Official GSAP animation skills covering the full GreenSock ecosystem — core AP
 
 ### Community Skills
 
+| [Claude Code Power Stack](https://github.com/bluzername/claude-code-power-stack) | Curated toolkit bundling Ghost (persistent memory), cc-conversation-search, session naming, and Manus-style file-based planning into one-command install with cheat sheet PDF |
+
 <details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
