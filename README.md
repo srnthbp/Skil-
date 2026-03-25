@@ -982,6 +982,7 @@ Official GSAP animation skills covering the full GreenSock ecosystem — core AP
 - **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 30+ frameworks and SaaS metrics
 - **[deusyu/translate-book](https://github.com/deusyu/translate-book)** - Translate books (PDF/DOCX/EPUB) via parallel sub-agents with resume
 
+- **[SkillFlow MCP Server](https://github.com/rafsilva85/skillflow-mcp-server)** - Browse, search, and install AI agent skills from the SkillFlow marketplace via MCP. Discover 500+ skills with semantic search, one-click install, and community ratings.
 </details>
 
 <details>
