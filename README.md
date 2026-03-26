@@ -1055,6 +1055,7 @@ Official GSAP animation skills covering the full GreenSock ecosystem — core AP
 - **[ethos-link/rails-conventions](https://github.com/ethos-link/rails-conventions)** - Rails 8 conventions for consistent production code changes
 - **[ShunsukeHayashi/agent-skill-bus](https://github.com/ShunsukeHayashi/agent-skill-bus)** - Self-improving task orchestration for AI agent systems
 - **[mcollina/skills](https://github.com/mcollina/skills/tree/main/skills)** - 11 skills by Matteo Collina: Node.js, Fastify, TypeScript, OAuth, Git/GitHub, ESLint neostandard, documentation (Diataxis), Node.js core internals, skill optimizer, and more
+- **[AuraKit](https://github.com/smorky850612/Aurakit)** - All-in-one Claude Code skill: 33 modes, 6-layer security, 23 hooks, 8 languages, 75% token savings. Works on Claude Code, Codex CLI, Cursor, Manus, Windsurf.
 
 </details>
 
