@@ -1,0 +1,461 @@
+================================================================================
+SEEDANCE 2.0 PROMPT CARD: DHURANDHAR SPY ACTION SEQUENCE
+================================================================================
+
+USE THIS CARD TO SUBMIT DIRECTLY TO SEEDANCE 2.0 ON HIGGSFIELD
+Copy-paste everything below (or reference full brief for detailed version)
+
+================================================================================
+PROJECT METADATA
+================================================================================
+
+PROJECT NAME: Dhurandhar Spy Action Sequence
+SKILL: /seedance-fight-scenes
+REFERENCE IMAGE: [Attach gym photo with pinstriped shirt]
+DURATION: 10-15 seconds
+STATUS: PRODUCTION READY
+
+================================================================================
+SETTING & ATMOSPHERE (COMPACT)
+================================================================================
+
+LOCATION: Rain-soaked urban alleyway at night
+- Brick walls, narrow passage
+- Neon signs (reds, purples, blues) overhead
+- Heavy rainfall, wet pavement
+- Street light from alley entrance
+- Cool desaturated lighting
+
+AMBIANCE:
+- Heavy rainfall echoing off brick
+- Water splashing from impacts
+- Distant urban sounds (muffled)
+- Heavy breathing between exchanges
+
+================================================================================
+COMBATANTS (COMPACT)
+================================================================================
+
+AGENT (PRIMARY):
+- Athletic build, composed expression
+- Dark formal shirt (pinstriped), dark trousers
+- Combat style: Direct, efficient hand-to-hand
+- Approach: Tactical superiority, economy of motion
+- Emotional state: Cold professional focus
+
+ANTAGONIST/PURSUER:
+- Larger frame, aggressive demeanor
+- Tactical gear, military bearing
+- Combat style: Power-based brawler approach
+- Approach: Brute force, momentum
+- Emotional state: Relentless, driven aggression
+
+================================================================================
+OPENING HOOK (2 SECONDS)
+================================================================================
+
+Cut directly to apex of Agent's jab connecting with Antagonist's jaw.
+
+SLOW-MOTION: 0.5x speed
+
+VISUAL:
+- Fist mid-impact on jaw
+- Antagonist's head rotating backward
+- Rain droplets frozen in air
+- Water spray captured mid-explosion
+- Cold blue neon light on impact point
+- Agent's expression: calm, focused
+
+DURATION: 2 seconds at 0.5x = 4 seconds real-time
+
+================================================================================
+EXCHANGE 1: AGENT INITIATES (3 SECONDS)
+================================================================================
+
+Agent flows forward with tight jab-cross combo.
+
+SEQUENCE:
+1. Jab → snappy, precise, centered on face
+2. Cross → full rotation, aimed at ribs
+3. Both strikes show economy of motion
+4. Footwork: Small, controlled steps on wet pavement
+5. Impact: Water splashes from stance shifts
+
+ANTAGONIST REACTION:
+- Head snaps back from jab
+- Ribs compress from cross
+- Staggers backward slightly
+- Hand goes to ribs
+
+CAMERA:
+- Medium shot (both visible)
+- Push forward on aggressive strikes
+- Subtle dolly zoom on contact
+
+EFFECTS:
+- Water displacement from footwork
+- Fabric ripple from punch wind
+- Neon reflects off water
+
+================================================================================
+EXCHANGE 2: ANTAGONIST COUNTERS (3.5 SECONDS)
+================================================================================
+
+Antagonist launches heavy roundhouse kick.
+
+SEQUENCE:
+1. Plant feet explosively
+2. Full-body rotation into roundhouse
+3. SLOW-MOTION: 0.4x on extension
+4. Roundhouse whooshes past Agent's head
+5. Agent ducks with minimal head movement
+6. Water sprays horizontally from leg velocity
+
+AGENT'S COUNTER:
+1. Immediately transitions to Antagonist's ribs
+2. Two rapid elbow strikes from close range
+3. First elbow: Sharp, precise angle
+4. Second elbow: Explosive continuation
+5. Both strikes create audible impact
+
+ANTAGONIST IMPACT:
+- Kick hits brick wall (missing Agent)
+- Brick dust explodes from wall
+- Mortar cracks spider-web pattern
+- Water runs down damaged wall
+
+CAMERA:
+- Track the kick arc
+- Close-up on Agent's evasion
+- Push forward on elbows
+- Pull back to show aftermath
+
+EFFECTS:
+- Brick dust cloud from wall
+- Heavy water spray from kick
+- Light shadows shift dramatically
+- Fabric snaps from close strikes
+
+================================================================================
+EXCHANGE 3: ESCALATION & STALEMATE (4 SECONDS)
+================================================================================
+
+Antagonist realizes jabs aren't working. Charges aggressively.
+
+SEQUENCE:
+1. Aggressive forward rush (0.8s)
+2. Agent pivots hard right, sidesteps (0.8s)
+3. Antagonist's shoulder impacts wall hard (0.6s)
+4. Agent repositions, maintains distance (0.4s)
+5. MOMENT OF STALEMATE: Both pause, assessing (0.8s)
+6. Antagonist gathers resolve (0.6s)
+
+STALEMATE VISUALS:
+- Both breathing heavily
+- Rain pouring down
+- Water running down faces
+- Tension palpable
+- Antagonist: dazed but not defeated
+- Agent: calm, waiting
+
+CAMERA:
+- Medium two-shot
+- Whip-pan following Antagonist's momentum
+- Close-up on shoulder/wall contact
+- Orbit around both
+- Static wide shot of stalemate
+
+EFFECTS:
+- Multiple brick dust clouds
+- Water cascading from wall
+- Neon reflections shifting
+- Shirts clinging wetly
+- Visible environmental damage
+
+================================================================================
+CLIMACTIC MOMENT: THROWING REVERSAL (3.5 SECONDS)
+================================================================================
+
+Antagonist's final reckless charge. Agent executes hip throw.
+
+SEQUENCE:
+1. Antagonist charges with full commitment (0.6s)
+2. Arms wide, attempting clinch (0.6s)
+3. Agent plants feet, drops center (0.4s)
+4. Agent grabs behind Antagonist's back (0.4s)
+5. Hip thrust upward, explosive (0.4s)
+
+THE THROW:
+- SLOW-MOTION: 0.3x speed
+- Antagonist launches over Agent's hip
+- Body briefly horizontal mid-air
+- Antagonist's expression: shock, realization
+- Rain droplets suspended in frame
+
+IMPACT WITH GROUND:
+- Antagonist crashes onto wet pavement (0.4s)
+- Back absorbs impact
+- Air violently expelled
+- Impact crater visible in water
+- Heavy thud sound (post-production)
+- Shockwave spreads through water
+
+RECOVERY:
+- Agent stands ready, barely breathing hard
+- Antagonist gasps for air, stunned
+- Eyes widen in pain/shock
+- Attempts to get up, realizes severity
+- Agent stands over, calm and in control
+
+CAMERA:
+- Wide shot (both ready)
+- Multi-angle slow-motion of throw arc
+- Ground-level POV of impact
+- Close-up on Antagonist's face (pain)
+- Back to wide shot, Agent standing
+
+EFFECTS:
+- Massive water splash on impact
+- Visible crater in puddle
+- Water waves radiating
+- Neon reflects in spray
+- Heavy impact sound design (post)
+
+================================================================================
+RESOLUTION (2 SECONDS)
+================================================================================
+
+Professional disengagement. Rain continues relentless.
+
+SEQUENCE:
+1. Agent's controlled breathing
+2. Eyes locked on Antagonist
+3. Rain streaming down Agent's face
+4. Antagonist stares, defeated
+5. Agent steps backward deliberately
+6. Antagonist rolls to side
+7. Camera pulls back (crane shot)
+
+FINAL IMAGE:
+- Both combatants in rain-soaked alley
+- Neon lights reflect off wet surfaces
+- Rain visible in overhead light beams
+- Walls frame both figures
+- Neon signs blur in background
+- Rain continues, relentless
+- FADE OUT
+
+TONE: Professional, not merciful. Mutual acknowledgment of skill disparity.
+
+================================================================================
+TECHNICAL SPECIFICATIONS
+================================================================================
+
+FORMAT:
+- Duration: 10-15 seconds
+- Frame Rate: 24fps (cinematic)
+- Resolution: 4K (3840x2160) preferred / 1080p (1920x1080) minimum
+- Aspect Ratio: 16:9 widescreen
+- Codec: H.264
+
+COLOR GRADING:
+- Base: Cool desaturated blues, grays
+- Neon Pops: Saturated reds, purples, blues
+- Shadows: Deep, high contrast
+- Highlights: Neon reflection only
+- Overall: Film noir spy thriller
+
+MOTION:
+- Motion Blur: Standard cinematic
+- Depth of Field: Shallow on closeups, deeper on wide
+- Slow-Motion: 0.5x on impacts, 0.3x on throw
+- Normal Speed: 1.0x for exchanges
+
+LIGHTING:
+- Key Light: Neon signs (primary)
+- Rain: Visible in light beams
+- Reflections: Water mirrors all light
+- Shadows: Build tension, conceal details
+
+================================================================================
+SOUND DESIGN (POST-PRODUCTION)
+================================================================================
+
+FOLEY:
+- Jab: Bass-heavy thump with snap
+- Cross: Hollow body shot
+- Elbow: Sharp crack (close range)
+- Roundhouse: Kick wind whistle
+- Wall impact: Heavy dull thud
+- Throw landing: Explosive + air expulsion
+
+ENVIRONMENT:
+- Continuous heavy rainfall
+- Wet footsteps, variable rhythm
+- Heavy breathing (during pauses)
+- Water splashes, displacement
+
+MUSIC SCORE:
+- Tension buildup: String tremolo (0-3s)
+- Impact hits: Timpani, bass drums
+- Climax crescendo: Full orchestra
+- Resolution: Low strings fade out
+
+SILENCE:
+- Brief cutout before major strikes
+- Antagonist gasping after impacts
+- Creates dramatic tension
+
+================================================================================
+PRODUCTION NOTES
+================================================================================
+
+KEY EMPHASIS:
+✓ Practical hand-to-hand (no superhuman abilities)
+✓ Efficient choreography (no flashy moves)
+✓ Realistic physics (momentum, weight transfer)
+✓ Environmental interaction (rain, water, dust, brick)
+✓ Facial expression reflecting emotional state
+✓ Breathing visibility (exhaustion + control)
+
+CAMERA PHILOSOPHY:
+✓ Aggressive moments: Push forward (aggressor's POV)
+✓ Defensive moments: Pull back (show space)
+✓ Exchanges: Orbit around combatants
+✓ Slow-motion: Follow primary action tightly
+
+COMPARATIVE REFERENCES:
+- Mission: Impossible practical hand-to-hand
+- Jason Bourne efficient fighting
+- John Wick professional precision
+- Dhurandhar spy tradecraft realism
+
+================================================================================
+SEEDANCE 2.0 SUBMISSION CHECKLIST
+================================================================================
+
+✓ Setting: Specific, atmospheric, rain-integrated
+✓ Combatants: Fully characterized with physicality
+✓ Opening Hook: Establishes stakes immediately
+✓ Exchanges: Detailed with camera work, 3 progressive
+✓ Climactic Moment: Clear turning point (throw reversal)
+✓ Resolution: Emotional, satisfying, non-abrupt
+✓ Technical Specs: Complete and comprehensive
+✓ Sound Design: Post-production notes included
+✓ Choreography: Precise language, realistic
+✓ Camera Movements: Specified for each moment
+✓ Environmental Interaction: Woven throughout
+✓ Artistic Vision: Clearly communicated (spy thriller)
+
+================================================================================
+SUBMISSION INSTRUCTIONS
+================================================================================
+
+1. INVOKE SKILL:
+   /seedance-fight-scenes
+
+2. PROVIDE CONTEXT:
+   Project: Dhurandhar Spy Action Sequence
+   Reference Image: [Attach gym photo]
+
+3. PASTE PROMPT:
+   Copy this entire card (or full brief from detailed document)
+
+4. SPECIFY OUTPUT:
+   Duration: 12 seconds
+   Resolution: 4K (3840x2160)
+   Format: MP4 (H.264)
+   Frame Rate: 24fps
+
+5. SUBMIT:
+   Wait for generation (2-5 minutes typical)
+   Review output
+   Provide feedback if adjustments needed
+
+================================================================================
+POST-GENERATION WORKFLOW
+================================================================================
+
+PHASE 1: Review Raw Video (10 min)
+- Check choreography accuracy
+- Verify camera work quality
+- Assess environmental details (rain, neon, brick)
+- Note any deviations from brief
+
+PHASE 2: Color Grading (15 min)
+- Apply cool desaturated base
+- Boost neon saturation
+- Adjust shadows/highlights for mood
+- Match spy thriller aesthetic
+
+PHASE 3: Audio Design (20 min)
+- Add foley layer (impacts, footsteps, breathing)
+- Layer ambient rain sound
+- Compose/add orchestral score
+- Mix to balanced levels
+
+PHASE 4: VFX Enhancement (10 min optional)
+- Add impact flashes
+- Enhance motion blur
+- Add light lens effects
+- Screen shake on major impacts
+
+PHASE 5: Final Export (5 min)
+- Export master (4K ProRes)
+- Export streaming (1080p H.264)
+- Verify file integrity
+- Document metadata
+
+================================================================================
+QUALITY GATES
+================================================================================
+
+VISUAL QUALITY GATE:
+✓ Color grading applied consistently
+✓ Neon pops visible (not blown out)
+✓ Rain visible in all frames
+✓ Shadows maintain detail
+✓ Motion blur appropriate
+
+AUDIO QUALITY GATE:
+✓ Rain audible but not overwhelming
+✓ Foley impacts clear and timed
+✓ Music score supports action
+✓ Breathing audible during tension
+✓ No audio clipping
+
+CHOREOGRAPHY QUALITY GATE:
+✓ Opening hook establishes stakes
+✓ Each exchange distinct and escalating
+✓ Climactic moment provides turning point
+✓ Resolution is satisfying
+✓ Camera work complements action
+
+================================================================================
+ESTIMATED PRODUCTION TIMELINE
+================================================================================
+
+Seedance 2.0 Generation:    2-5 minutes
+Raw Video Review:           10 minutes
+Color Grading:              15 minutes
+Audio Design:               20 minutes
+VFX Enhancement:            10 minutes (optional)
+Final Export:               5 minutes
+────────────────────────────────────
+TOTAL PRODUCTION TIME:       ~1 hour (without VFX)
+                            ~70 minutes (with VFX)
+
+================================================================================
+READY FOR SUBMISSION TO SEEDANCE 2.0
+================================================================================
+
+Status: ✅ PRODUCTION READY
+
+Next Step: Copy this prompt card and submit with /seedance-fight-scenes skill
+
+Reference Image: [Gym photo with pinstriped shirt]
+
+Expected Output: Professional spy thriller fight sequence, 10-15 seconds, 4K quality
+
+Generated: 2026-04-19
+================================================================================
